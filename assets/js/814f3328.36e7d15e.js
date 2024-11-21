@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Como Criar seu Portf\xf3lio com GitHub Pages e Docusaurus","permalink":"/portfolio/blog/create-portfolio-with-github-pages-and-docusaurus","unlisted":false,"date":"2024-11-20T00:00:00.000Z"}]}')}}]);
