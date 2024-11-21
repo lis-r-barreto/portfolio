@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+portfolio:
+  label: Portfolio
+  permalink: /portfolio
+  description: Portfolio-related content
+
+github-pages:
+  label: GitHub Pages
+  permalink: /github-pages
+  description: How to use GitHub Pages
