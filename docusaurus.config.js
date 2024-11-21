@@ -35,6 +35,8 @@ const config = {
         blog: {
           showReadingTime: true,
           editUrl: 'https://github.com/lis-r-barreto/portfolio/edit/main/',
+          blogSidebarTitle: 'Todos os Posts',
+          blogSidebarCount: 'ALL', // Mostra todos os posts na barra lateral
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,10 +55,10 @@ const config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'docSidebar', // This links to the sidebar defined for Projects
+          sidebarId: 'projectsSidebar', 
           position: 'left',
-          label: 'Tutorial',
+          label: 'Projetos',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
@@ -70,11 +72,11 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Projetos',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Primeiro Projeto',
+              to: '/docs/projects/first-project',
             },
           ],
         },

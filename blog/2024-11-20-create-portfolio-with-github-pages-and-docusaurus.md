@@ -9,7 +9,7 @@ date: 2024-11-20
 
 Criar um portfólio profissional pode ser fácil e acessível utilizando **GitHub Pages** e **Docusaurus**. Este guia irá te orientar passo a passo na configuração, personalização e publicação do seu portfólio.
 
----
+<!--truncate-->
 
 ## Step 1: Configure o SSH com GitHub
 

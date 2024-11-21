@@ -1,14 +1,34 @@
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: Resources and guides for creating sites with Docusaurus.
 
 portfolio:
   label: Portfolio
   permalink: /portfolio
-  description: Portfolio-related content
+  description: Guides and tips for building professional portfolios.
 
 github-pages:
   label: GitHub Pages
   permalink: /github-pages
-  description: How to use GitHub Pages
+  description: Tutorials and insights on deploying websites with GitHub Pages.
+
+big-data:
+  label: Big Data
+  permalink: /big-data
+  description: Articles and projects related to Big Data technologies and solutions.
+
+linux:
+  label: Linux
+  permalink: /linux
+  description: Scripts, tools, and tutorials for Linux-based systems.
+
+shell-script:
+  label: Shell Script
+  permalink: /shell-script
+  description: Scripts and automation tools for command-line environments.
+
+system-update:
+  label: System Update
+  permalink: /system-update
+  description: Guides and scripts for automating system updates on Linux.

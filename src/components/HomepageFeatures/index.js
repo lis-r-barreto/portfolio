@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Impactful Solutions',
+    title: 'Soluções Impactantes',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Experiência no desenvolvimento de soluções que transformam dados em 
+        valor de negócio, utilizando técnicas avançadas de Machine Learning 
+        e MLOps.
       </>
     ),
   },
   {
-    title: 'Collaboration',
+    title: 'Colaboração e Inovação',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Trabalho colaborativo em equipes multidisciplinares, sempre buscando 
+        implementar soluções inovadoras para desafios complexos no setor 
+        de dados e tecnologia.
       </>
     ),
   },
   {
-    title: 'Continuous Learning',
+    title: 'Aprendizado Contínuo',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Comprometida com o aprendizado contínuo, utilizando as mais recentes 
+        tecnologias e práticas para aprimorar projetos e impulsionar resultados.
       </>
     ),
   },

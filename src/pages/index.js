@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <img
           src={require('@site/static/img/me.jpg').default}
-          alt="Your Name"
+          alt="Foto de Lis R. Barreto"
           style={{
             borderRadius: '50%',
             width: '150px',
@@ -33,7 +33,7 @@ function HomepageHeader() {
             href="/files/resume.pdf"
             target="_blank"
           >
-            Download My Resume 📄
+            Baixar Meu Currículo 📄
           </Link>
         </div>
       </div>
@@ -45,18 +45,18 @@ function AboutMeSection() {
   return (
     <section className={styles.aboutMeSection}>
       <div className="container">
-        <h2>About</h2>
+        <h2>Sobre Mim</h2>
         <p>
-          Hi! I'm <strong>Lis</strong>, a Machine Learning Engineer with experience in building scalable data solutions and deploying ML models into production. I am passionate about solving real-world problems using data and technology.
+          Olá! Eu sou <strong>Lis</strong>, Engenheira de Machine Learning com experiência em construir soluções de dados escaláveis e implantar modelos de aprendizado de máquina em produção. Minha paixão está em usar dados e tecnologia para resolver problemas complexos e gerar valor para os negócios.
         </p>
         <p>
-        With over 5 years of experience developing solutions with Python, initially focused on optimizing pipelines and processing large volumes of data. I’ve worked on projects in the financial sector, including lead generation for Variable Income, building a feature store for credit cards, and orchestrating online models. Specialized in DataOps and Spark Performance Tuning, with solid experience in migrating pipelines for cost reduction. Currently, I am focused on applying my knowledge of MLOps and DevOps to create scalable machine learning solutions that deliver business value.
+          Tenho mais de 5 anos de experiência desenvolvendo soluções com Python, focando na otimização de pipelines e no processamento de grandes volumes de dados. Trabalhei em projetos no setor financeiro, incluindo a criação de uma feature store para cartões de crédito, geração de leads para Renda Variável e orquestração de modelos online. Também sou especializada em DataOps e Spark Performance Tuning, com ampla experiência em reduzir custos por meio de melhorias em pipelines. Atualmente, meu foco está em MLOps e DevOps, criando soluções escaláveis que impulsionam resultados.
         </p>
         <Link
           className="button button--primary button--lg"
           to="/docs/about"
         >
-          Learn More About Me
+          Saiba Mais Sobre Mim
         </Link>
       </div>
     </section>
@@ -67,8 +67,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Portfolio | ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`Portfólio | ${siteConfig.title}`}
+      description="Portfólio de Lis R. Barreto: Engenheira de Machine Learning especializada em MLOps e soluções escaláveis."
     >
       <HomepageHeader />
       <main>
