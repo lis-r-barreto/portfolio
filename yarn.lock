@@ -5841,6 +5841,11 @@ mdn-data@2.0.30:
   resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.30.tgz#ce4df6f80af6cfbe218ecd5c552ba13c4dfa08cc"
   integrity sha512-GaqWWShW4kv/G9IEucWScBx9G1/vsFZZJUO+tD26M8J8z3Kw5RDQjaoZe03YAClgeS/SWPOcb4nkFBTEi5DUEA==
 
+mdx-code-blocks@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/mdx-code-blocks/-/mdx-code-blocks-0.0.1.tgz#d4b83b7f64450831151d7ba1ec9e5402debcab31"
+  integrity sha512-+qQs86JEDUB+P9+wGEh11tzxyfGHND7iss9IhQyLrbW0Z9X5GKmZi7lyliz7unyg7CRIb9TJ9iM6gC+jzSJ8Mw==
+
 media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
