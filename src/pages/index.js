@@ -54,7 +54,7 @@ function AboutMeSection() {
         </p>
         <Link
           className="button button--primary button--lg"
-          to="/about"
+          to="/docs/about"
         >
           Learn More About Me
         </Link>
